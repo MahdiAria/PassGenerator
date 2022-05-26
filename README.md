@@ -37,8 +37,6 @@
 
 * 'ls'
 
-* 'cd My-Project'
-
 * 'cd 'PassGenerator'
 
 * 'python3 PassGenerator.py'
